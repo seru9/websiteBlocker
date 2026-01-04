@@ -21,8 +21,7 @@ A lightweight Python GUI application that helps you stay productive by blocking 
 * **Windows OS** (The current path is configured for `C:\Windows\System32\drivers\etc\hosts`).
 
 ### Setup
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/yourusername/website-blocker-gui.git](https://github.com/yourusername/website-blocker-gui.git)
-   cd website-blocker-gui
+1. ```
+   python websiteBlocker.py
+   ```
 2. For Windows open cmd in admin mode!
